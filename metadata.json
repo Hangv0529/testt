@@ -1,0 +1,6 @@
+{
+  "name": "Logo Designer & Animator",
+  "description": "Design custom brand vector logos from text prompts and preview them with customized interactive animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
